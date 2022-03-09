@@ -1,0 +1,16 @@
+PODS:
+  - CameraX (0.1.0)
+
+DEPENDENCIES:
+  - CameraX (from `../`)
+
+EXTERNAL SOURCES:
+  CameraX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CameraX: 4a856ae5469e3a8dd7c792efd098a2c87d8b0671
+
+PODFILE CHECKSUM: 0250c2ee04131a5a4059dbcd5948af385dbf4a82
+
+COCOAPODS: 1.11.2
